@@ -59,4 +59,11 @@ Gyaanuday is a platform that allows users to submit their projects, search for o
    sudo systemctl start mysql
    ```
 
+5. Access the application by navigating to `localhost` in your browser.
+
+
+## Contributions
+
+Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request with your changes.
+
 
