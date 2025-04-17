@@ -14,32 +14,7 @@ Gyaanuday is a platform that allows users to submit their projects, search for o
 ## File Structure
 
 
-/gyanuday  
-│── /public  
-│   ├── index.php          # Homepage (Project listings, search bar)  
-│   ├── login.php          # User login page  
-│   ├── register.php       # User registration page  
-│   ├── submit_project.php # Project submission page  
-│   ├── scripts.js         # JavaScript for frontend interactions  
-│   ├── styles.css         # Tailwind CSS styles  
-│── /src  
-│   ├── auth/  
-│   │   ├── process_register.php  # Handles registration logic  
-│   │   ├── process_login.php     # Handles login logic  
-│   │   ├── logout.php            # Logs out users  
-│   ├── projects/  
-│   │   ├── add_project.php       # Handles project submissions  
-│   │   ├── get_projects.php      # Fetches projects for search  
-│   │   ├── like_project.php      # Handles likes  
-│── /config  
-│   ├── database.php       # Database connection  
-│── /uploads  
-│   ├── profile_photos/    # Stores user profile photos  
-│── .env                   # Environment variables (optional)  
-│── .htaccess              # Rewrite rules (optional)  
-│── README.md              # Project Documentation  
 
-## Setup
 
 1. Clone the repository:
 
