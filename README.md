@@ -1,4 +1,16 @@
+# Gyaanuday Project
 
+Gyaanuday is a platform that allows users to submit their projects, search for others' projects, and engage with them through likes. The platform also supports user authentication, project management, and profile customization.
+
+## Features
+
+- **User Registration & Login**: Secure user authentication system.
+- **Project Submission**: Users can submit their projects with names, descriptions, and media (PDFs, images, videos, audio).
+- **Search Functionality**: Users can search for projects based on keywords.
+- **Like Feature**: Users can like projects to show their appreciation.
+- **Profile Customization**: Users can upload profile pictures and update their bios.
+
+## File Structure
 
 
 
